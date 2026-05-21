@@ -57,7 +57,7 @@ The [`docs/`](./docs) folder holds the workshop handouts. Download or open them 
 The async help channel and office-hours link are pinned in the workshop chat. If you are stuck, you are not breaking anything — raise a hand and a moderator will help.
 
 ---
-<span style="color: red"> This is a test update!!! </span>
+$${\color{red} This \space is \space a \space test \space update!!! }$$
 
 
 
